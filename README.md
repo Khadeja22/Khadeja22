@@ -1,4 +1,4 @@
-### hi it's khadeja 👋
+### hey it's khadeja 👋
 
 
 - 🌱 I’m currently learning: javascript
