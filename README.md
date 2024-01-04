@@ -1,4 +1,4 @@
-### hey it's khadeja 👋
+### hey, it's khadeja 👋
 
 
 - 🌱 I’m currently learning: machine learning with python
